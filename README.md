@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IngridRadu
 - 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on jobs like Junior Front-end-developer
+- 💞️ I’m looking to collaborate on jobs like Front-end-developer
 - 📫 How to reach me ingridmalovi@gmail.com
 
 <!---
